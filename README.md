@@ -10,7 +10,6 @@ Das Repository enthält die folgenden Arten von Aufgaben:
 - **Projekte:** Größere Projekte, die verschiedene Konzepte des Moduls integrieren.
 - **Hausaufgaben:** Aufgaben, die zu Hause bearbeitet werden können, um das Verständnis zu vertiefen.
 
-
 ## Mitwirkende
 
 - [Ajnur Ademi](https://github.com/ajnurademi)
