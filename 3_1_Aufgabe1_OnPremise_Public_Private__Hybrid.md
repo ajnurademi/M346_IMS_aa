@@ -1,8 +1,8 @@
-##### OnPremise,Public-,Private-undHybridcloud
+### OnPremise,Public-,Private-undHybridcloud
 
 ---
 
-###### OnPremiseCloud:
+#### OnPremiseCloud:
 
 **OnPremise**: Das bedeutet, dass etwas lokal in deinem eigenen Unternehmen oder in deinen eigenen Räumlichkeiten stattfindet, im Gegensatz zu etwas, das extern oder in der "Cloud" liegt.
 
@@ -24,7 +24,7 @@ Also, wenn wir "OnPremise Cloud" zusammensetzen, bedeutet das, dass du deine eig
 
 
 
-###### Public Cloud:
+#### Public Cloud:
 
 Die Public Cloud ist wie ein riesiger digitaler Mietraum im Internet. Anstatt deine Daten und Programme auf deinem eigenen Computer zu speichern, kannst du sie in der Public Cloud speichern. Diese Cloud wird von großen Unternehmen wie Amazon, Microsoft oder Google betrieben. Du greifst über das Internet auf die Cloud zu, ähnlich wie du auf eine Website zugreifst. Dort kannst du Daten speichern, Anwendungen ausführen und vieles mehr. Es ist, als hättest du einen virtuellen Raum, den du über das Internet nutzen kannst, ohne eigene physische Server oder Rechenzentren besitzen zu müssen. Du zahlst normalerweise nur für das, was du benutzt, ähnlich wie bei der Bezahlung deiner Wasser- oder Stromrechnung.
 
@@ -34,7 +34,7 @@ Die Public Cloud ist wie ein riesiger digitaler Mietraum im Internet. Anstatt de
 
 
 
-###### Private Cloud:
+#### Private Cloud:
 
 Die Private Cloud ist wie dein persönlicher digitaler Raum, den du in deinem eigenen Haus oder Unternehmen hast. Anstatt deine Daten und Programme auf externen Servern im Internet zu speichern, bewahrst du sie in deiner eigenen Private Cloud auf. Es ist wie eine exklusive Clubmitgliedschaft, bei der nur du und deine Teammitglieder Zugriff haben. Du kannst deine Daten und Anwendungen dort speichern, genauso wie in der Public Cloud, aber alles passiert innerhalb deiner eigenen Infrastruktur. Das bedeutet, dass du die volle Kontrolle über deine Daten hast und sie nicht mit anderen teilen musst. Du betreibst und wartest deine Private Cloud selbst oder du beauftragst einen Dienstleister damit.
 
@@ -42,7 +42,7 @@ Die Private Cloud ist wie dein persönlicher digitaler Raum, den du in deinem ei
 
 
 
-###### Hybrid Cloud
+#### Hybrid Cloud
 
 Die Hybrid Cloud verbindet Public Cloud und Private Cloud miteinander. Du kannst einige deiner Daten und Anwendungen in der Public Cloud speichern und andere in deiner Private Cloud behalten. Die Idee ist, die Vorteile beider Welten zu nutzen: Die Flexibilität und Skalierbarkeit der Public Cloud sowie die Kontrolle und Sicherheit der Private Cloud. Es ist wie die besten Eigenschaften von Limonade und Eistee in einem Glas kombiniert!
 
