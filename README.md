@@ -13,8 +13,8 @@ Das Repository enthält die folgenden Arten von Aufgaben:
 
 ## Mitwirkende
 
-- Ajnur Ademi (https://github.com/ajnurademi)
-- Aron Herbel (https://github.com/aronherbel) 
+- [Ajnur Ademi](https://github.com/ajnurademi)
+- [Aron Herbel](https://github.com/aronherbel) 
 
 ## Hinweis
 
