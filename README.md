@@ -10,6 +10,12 @@ Das Repository enthält die folgenden Arten von Aufgaben:
 - **Projekte:** Größere Projekte, die verschiedene Konzepte des Moduls integrieren.
 - **Hausaufgaben:** Aufgaben, die zu Hause bearbeitet werden können, um das Verständnis zu vertiefen.
 
+Aufgaben: 
+
+- [3.1 Aufgabe: Servicemodelle](https://github.com/ajnurademi/M346_IMS_aa/blob/main/3_1_Aufgabe_IaaS_PaaS_SaaS.md)
+- [3.1 Aufgabe: Cloudmodelle](https://github.com/ajnurademi/M346_IMS_aa/blob/main/3_1_Aufgabe1_OnPremise_Public_Private__Hybrid.md)
+
+
 ## Mitwirkende
 
 - [Ajnur Ademi](https://github.com/ajnurademi)
