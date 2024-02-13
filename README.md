@@ -18,7 +18,7 @@ Aufgaben:
 
 ## Mitwirkende
 
-- [Ajnur Ademi](https://github.com/ajnurademi)
+<a href="https://github.com/ajnurademi">- [Ajnur Ademi]</a>
 - [Aron Herbel](https://github.com/aronherbel) 
 
 ## Hinweis
