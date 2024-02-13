@@ -18,7 +18,7 @@ Aufgaben:
 
 ## Mitwirkende
 
-<a href="https://github.com/ajnurademi">- [Ajnur Ademi]</a>
+- [Ajnur Ademi](https://github.com/ajnurademi)
 - [Aron Herbel](https://github.com/aronherbel) 
 
 ## Hinweis
@@ -26,5 +26,3 @@ Aufgaben:
 Dieses Repository dient ausschließlich zu Bildungszwecken im Rahmen des Moduls M346 der Schule.
 
 Falls du Fragen oder Anregungen hast, zögere nicht, sie mitzuteilen. Viel Spass beim Lernen und Programmieren! ⌨️🖱️
-
-## Links zur D
